@@ -5,7 +5,7 @@ Este repositorio contiene el código en R para realizar un Análisis de Componen
 
 ## Descripción
 
-El análisis se centra en evaluar la estructura y variabilidad de diferentes tipos de coberturas vegetales utilizando PCA. Los datos pueden incluir mediciones en porcentajes de variables. Estas variables son construidas artificialmente. 
+El análisis se centra en evaluar la estructura y variabilidad de diferentes tipos de coberturas vegetales utilizando PCA. Los datos pueden incluir mediciones en porcentajes de variables. Estas variables son construidas artificialmente. Se recomienda usar los datos en un archivo csv.
 
 ## Estructura del Repositorio
 
